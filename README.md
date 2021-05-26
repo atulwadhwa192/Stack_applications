@@ -1,2 +1,2 @@
-# Stack_applications+Implementation
+# Stack_applications
 Includes paranthesis matching problem which is solved using stack
